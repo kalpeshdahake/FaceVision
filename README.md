@@ -5,6 +5,7 @@ Problem Statement :-
 "Develop an accurate and efficient face detection system with extended object recognition capabilities, utilizing computer vision algorithms and techniques, to detect and localize faces as well as other objects of interest in images or video frames. The system should provide reliable detection results and visual representations for evaluation and analysis purposes."
 
 Main Objective :-
+
  Develop an accurate and robust face detection system.
 
  Extend object recognition capabilities beyond faces.
